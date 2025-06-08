@@ -1,16 +1,37 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Tirtho</h1>
+<h3 align="center">A curious Mechatronics Engineer with a passion for embedded systems, robotics, and real-world problem-solving.</h3>
 
-<!--
-**tirtho026/tirtho026** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+🌱 I’m currently exploring:
+- 🔧 Robotics projects with Arduino and ESP32
+- 🐍 Python for automation and data processing
+- 📡 IoT concepts with sensors and wireless modules
+- 🤖 Obstacle-avoiding robots, smart sensors & more
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 I’ve worked with:
+- Programming: C, C++, Python (beginner), MATLAB
+- Microcontrollers: Arduino Uno, Nano, Mega, ESP32, ESP32-S3
+- Sensors: DHT11, BMP180, IR sensors, ultrasonic, gyroscope
+- Tools: CodeBlocks, PyCharm, Arduino IDE, Tinkercad, VS Code
+
+💻 Favorite project so far: **ShieldBot** – a multi-sensor robot for safety and smart home applications.
+
+🔭 Currently learning:
+- 🐧 Linux Ubuntu (daily use)
+- 🤖 ROS (planned soon!)
+- 🔬 Real-time object detection using Blynk + ultrasonic + servo
+
+📦 Some of my GitHub repos will include:
+- Simulations built in Tinkercad
+- Sensor test codes and mini projects
+- Wiring diagrams and real-world hardware tests
+- Future drone development work!
+
+📫 You can reach me at: **[Your Email Here]**  
+(Or add a LinkedIn link when you make one!)
+
+---
+
+📌 Fun Fact: I love combining sensors with creative ideas to solve real problems — whether it’s for a smart home, a weather bot, or a fire safety alarm.  
+Let’s build something awesome together 🚀
