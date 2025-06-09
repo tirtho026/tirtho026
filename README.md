@@ -28,9 +28,8 @@
 - Wiring diagrams and real-world hardware tests
 - Future drone development work!
 
-📫 You can reach me at: **[Your Email Here]**  
-(Or add a LinkedIn link when you make one!)
-
+📫 You can reach me at: **tirtho.mazumdar2020@gmail.com**  
+Linkedin and Instagram id is displayed in profile.
 ---
 
 📌 Fun Fact: I love combining sensors with creative ideas to solve real problems — whether it’s for a smart home, a weather bot, or a fire safety alarm.  
